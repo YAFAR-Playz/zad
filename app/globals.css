@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brick: #cf441e;
+  --teal: #073b4c;
+  --mint: #a9d8c7;
+}
+
+body {
+  background: #f8fafc;
+}
